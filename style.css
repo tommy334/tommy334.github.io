@@ -3,6 +3,7 @@ body{
   color:#444;
   font-size: 16px;
   -webkit-text-size-adjust: 100%;
+  width: 660px;
 }
 
 header,footer{
